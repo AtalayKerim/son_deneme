@@ -4,3 +4,4 @@ status komutunun çalışıp çalışmadığına bakıcam
 ## bakalım
 
 son iki üç
+neler oluyor
